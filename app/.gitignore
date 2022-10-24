@@ -1,6 +1,6 @@
 /build
 /app/build
 /.idea
-../gradle/google-services.json
+/app/google-services.json
 .gitignore
 
